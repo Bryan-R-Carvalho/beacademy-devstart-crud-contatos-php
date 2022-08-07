@@ -19,5 +19,3 @@ $url = explode('?', $_SERVER['REQUEST_URI']);
 
 
 include 'telas/footer.php';
-
-    
